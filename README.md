@@ -36,4 +36,4 @@ Clone this repository:
 
 **HTTPS:**
 ```bash
-git clone https://github.com/sxmplyfarhan/Farhans-Sway-Rice
+git clone https://github.com/sxmplyfarhan/Farhans-I3-Rice.git
