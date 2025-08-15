@@ -21,11 +21,12 @@ A minimal and clean i3 configuration with custom polybar,Rofi menu and Rofi Powe
 - **Bar:** [Polybar](https://github.com/polybar/polybar)
 - **Wallpaper Enginer:** [Nitrogen](https://wiki.archlinux.org/title/Nitrogen)
 
-## Requirmeants? (Fonts mainly for rofi and waybar. Move them to ~/.local/share/fonts. [if directory doesnt exist make it.]. Once moved unzip them all in there, and then reboot.)
-- **JetBrainsMono Nerd: ** [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/JetBrainsMono.zip)
-- **Fira Code Nerd Font: ** [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip)
-- **Hack Nerd Font: ** [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/Hack.zip)
-
+## Requirmeants? 
+- **JetBrainsMono Nerd:** [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/JetBrainsMono.zip)
+- **Fira Code Nerd Font:** [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip)
+- **Hack Nerd Font:** [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/Hack.zip)
+- 
+  Fonts mainly for rofi and waybar. Move them to ~/.local/share/fonts. [if directory doesnt exist make it.]. Once moved unzip them all in there, and then reboot.
 
 ---
 
