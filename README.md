@@ -1,4 +1,4 @@
-# Sway Rice — My Wayland Setup
+# i3 rice — My X11 Setup
 
 A minimal and clean i3 configuration with custom polybar,Rofi menu and Rofi PowerMenu.
 
@@ -16,13 +16,9 @@ A minimal and clean i3 configuration with custom polybar,Rofi menu and Rofi Powe
 
 ## What was used? 
 
-- **Window Manager:** [Sway](https://swaywm.org/)
-- **Launcher:** [wofi](https://hg.sr.ht/~scoopta/wofi)
-- **Bar:** [waybar](https://github.com/Alexays/Waybar)
-- **Terminal:** [Kitty](https://sw.kovidgoyal.net/kitty/)
-- **Widget:** [Ewww](https://github.com/elkowar/eww)
-- **Neovim:** [Neovim](https://neovim.io/)
-- **Theme:** Minimal Black and White. 
+- **Window Manager:** [i3](https://github.com/i3/i3)
+- **Launcher:** [rofi](https://github.com/davatorium/rofi)
+- **Bar:** [polybar](https://github.com/polybar/polybar)
 
 
 ---
