@@ -10,7 +10,7 @@ A minimal and clean i3 configuration with custom polybar,Rofi menu and Rofi Powe
 ![Desktop](Screenshots/image.png)
 
 ### Wallpaper 
-![wallpaper](wallpaper/wellgoodbye.png)
+![wallpaper](wallpaper/wallpaper.png)
 
 ---
 
